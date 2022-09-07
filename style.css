@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(190, 172, 132);;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.willsmith{
+  width: 150px;
+}
+
+div {
+  background-color: rgb(249, 249, 249);
+  width: 100vh;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.btn-basic {
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.btn-basic:hover{
+  color: rgb(153, 140, 111);
+}
+
+a {
+  text-decoration: none;
+  color: rgb(110, 100, 78);
+}
+
+ul {
+  padding: 0px;
+}
+
+li{
+  list-style-type: none;
+  display: inline;
+  font-size: 30px;
+  margin: 5px;
+}
+
+.myimg {
+  border-radius: 50%;
+}
